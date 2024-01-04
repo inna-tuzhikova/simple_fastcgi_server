@@ -1,4 +1,4 @@
-# Simple CGI server
+# Simple FastCGI server
 
 HTTP server - nginx
 
